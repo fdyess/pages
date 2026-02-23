@@ -11,7 +11,7 @@ class AudioManager {
             reward: new Audio(`${baseUrl}/assets/sounds/crypto/reward.mp3`),
             click: new Audio(`${baseUrl}/assets/sounds/crypto/click.mp3`),
             bgm: new Audio(`${baseUrl}/assets/sounds/crypto/mining_bgm.mp3`),
-            buyingGPU: new Audio(`${baseUrl}/assets/sounds/crypto/buyingGPU.mp3`)
+            buyingGPU: new Audio(`${baseUrl}/assets/sounds/crypto/buyingGPU.mp3`)//hi from random guy from random class
         };
 
         // Configure BGM
